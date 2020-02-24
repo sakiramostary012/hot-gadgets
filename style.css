@@ -1,0 +1,21 @@
+.tittle{
+    font-weight: 600;
+    color: gray;
+}
+p{
+    color: gray;
+}
+.button{
+
+        background-image: linear-gradient(to bottom,  #eb2f06 0%, #FF136F 100%);
+        color: #fff;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+}
+
+
+
+
+
+
